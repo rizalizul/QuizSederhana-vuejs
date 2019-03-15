@@ -5,10 +5,10 @@ Vue Quiz merupakan project aplikasi kuis sederhana soal pilihan ganda dengan men
 ## Tentang Menggunakan Aplikasi ini
 
 ### Persyaratan 
-    - Koneksi Internet (untuk download dan instal project)
-    - NodeJS
-    - NPM
-    - CLI atau CMD
+- Koneksi Internet (untuk download dan instal project)
+- NodeJS
+- NPM
+- CLI atau CMD
 
 ### Cara Instalasi
 1. Clone atau download project dari GitHub. Ketik perintah berikut untuk clone project menggunakan SSH
@@ -34,4 +34,4 @@ App running at:
 7. Selesai
 
 # Penulis
-    - Muhamad Rizal - (github.com/rizalizul)
+- Muhamad Rizal - [github.com/rizalizul](https://github.com/rizalizul)
