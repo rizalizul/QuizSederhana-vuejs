@@ -1,5 +1,7 @@
 # Vue Quizz
 
+![image](https://user-images.githubusercontent.com/47273785/54423411-34756300-4743-11e9-874f-313cb8c7bf08.png)
+
 Vue Quiz merupakan project aplikasi kuis sederhana soal pilihan ganda dengan menggunakan *framework* VueJS dan datanya disimpan pada *array*. Setelah Kuis selesai dikerjakan, maka akan keluar Nilai yang didapatkan setelah menjawab pertanyaan beserja berapa jumlah jawaban benar dan salahnya.
 
 ## Tentang Menggunakan Aplikasi ini
